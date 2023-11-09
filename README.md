@@ -1,3 +1,3 @@
 # Gaming-website
 Live preview
-click here : https://codeminamo.github.io/Gaming-website/
+click here : <a href:"https://codeminamo.github.io/Gaming-website/">Live Demo Available</a>
