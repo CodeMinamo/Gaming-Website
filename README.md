@@ -4,7 +4,7 @@
 
   This website totaly based on digital gaming
 
-  <a href="https://codeminamo.github.io/3D_Animation_Website-1/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codeminamo.github.io/Gaming-website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
